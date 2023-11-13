@@ -4,7 +4,7 @@
     let poses = [];
     let currentModel;
     let currentPostureIndex = 0;//a   b           c            d           e
-    const postureLabels = ["PostureA", "PostureB", "PostureC", "PostureD", "PostureE"];
+    const postureLabels = ["PostureZ", "PostureB", "PostureC", "PostureD", "PostureE"];
     let poseLabel = "";
     let poseTimer = 300;
     const poseTimerThreshold = 300;
